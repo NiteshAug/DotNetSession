@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RGkr9Hh5g81NB+/RCGtuJufWyl2AFacqDq8tk6oAZqlX8iNVXc9yI+lbhZBdrsrrf/QMsYMWIc3Fp+w0uJgC8A==",
+  "dgSpecHash": "PPaMZBsTjm8zFguBxVKzmPgl90rajsj7AHMBjJD2K3iAILqQH3iT4oVq+OPoW09Z27ZS4lcvG3KOcq29pVJWmA==",
   "success": true,
-  "projectFilePath": "C:\\Nitesh_AugmentoLabs\\DotNetSession\\DotNetSessions\\ClassLibraryProject\\ClassLibrary\\ClassLibrary.csproj",
+  "projectFilePath": "C:\\Nitesh_AugmentoLabs\\Aug_DotNetSession\\ClassLibraryProject\\ClassLibrary\\ClassLibrary.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

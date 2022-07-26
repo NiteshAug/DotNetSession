@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Nitesh_AugmentoLabs\\DotNetSession\\DotNetSessions\\ClassLibraryProject\\ClassLibrary\\ClassLibrary.csproj",
+      "projectUniqueName": "C:\\Nitesh_AugmentoLabs\\Aug_DotNetSession\\ClassLibraryProject\\ClassLibrary\\ClassLibrary.csproj",
       "projectName": "ClassLibrary",
-      "projectPath": "C:\\Nitesh_AugmentoLabs\\DotNetSession\\DotNetSessions\\ClassLibraryProject\\ClassLibrary\\ClassLibrary.csproj",
+      "projectPath": "C:\\Nitesh_AugmentoLabs\\Aug_DotNetSession\\ClassLibraryProject\\ClassLibrary\\ClassLibrary.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Nitesh_AugmentoLabs\\DotNetSession\\DotNetSessions\\ClassLibraryProject\\ClassLibrary\\obj\\",
+      "outputPath": "C:\\Nitesh_AugmentoLabs\\Aug_DotNetSession\\ClassLibraryProject\\ClassLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

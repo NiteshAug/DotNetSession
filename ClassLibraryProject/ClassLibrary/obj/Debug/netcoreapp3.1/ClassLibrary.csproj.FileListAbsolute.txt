@@ -28,3 +28,13 @@ C:\Nitesh_AugmentoLabs\DotNetSession\DotNetSessions\ClassLibraryProject\ClassLib
 C:\Nitesh_AugmentoLabs\DotNetSession\DotNetSessions\ClassLibraryProject\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.csproj.CoreCompileInputs.cache
 C:\Nitesh_AugmentoLabs\DotNetSession\DotNetSessions\ClassLibraryProject\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.dll
 C:\Nitesh_AugmentoLabs\DotNetSession\DotNetSessions\ClassLibraryProject\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Nitesh_AugmentoLabs\Aug_DotNetSession\ClassLibraryProject\ClassLibrary\bin\Debug\netcoreapp3.1\ClassLibrary.deps.json
+C:\Nitesh_AugmentoLabs\Aug_DotNetSession\ClassLibraryProject\ClassLibrary\bin\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Nitesh_AugmentoLabs\Aug_DotNetSession\ClassLibraryProject\ClassLibrary\bin\Debug\netcoreapp3.1\ClassLibrary.pdb
+C:\Nitesh_AugmentoLabs\Aug_DotNetSession\ClassLibraryProject\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.csproj.AssemblyReference.cache
+C:\Nitesh_AugmentoLabs\Aug_DotNetSession\ClassLibraryProject\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Nitesh_AugmentoLabs\Aug_DotNetSession\ClassLibraryProject\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.AssemblyInfoInputs.cache
+C:\Nitesh_AugmentoLabs\Aug_DotNetSession\ClassLibraryProject\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.AssemblyInfo.cs
+C:\Nitesh_AugmentoLabs\Aug_DotNetSession\ClassLibraryProject\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Nitesh_AugmentoLabs\Aug_DotNetSession\ClassLibraryProject\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.dll
+C:\Nitesh_AugmentoLabs\Aug_DotNetSession\ClassLibraryProject\ClassLibrary\obj\Debug\netcoreapp3.1\ClassLibrary.pdb
