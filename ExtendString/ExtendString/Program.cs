@@ -3,27 +3,27 @@ using System.Linq;
 
 namespace ExtendString
 {
-    internal class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public void Example1()
         {
-            Program pg =new Program();
-            Console.WriteLine("Enter Value");
-            string Value = Console.ReadLine();            
-            Console.WriteLine(pg.ToCurrency(Value));
+            Console.WriteLine("Print Example 1");
         }
 
-        public string ToCurrency(string value)
+        public void Example2()
         {
-            bool result = value.All(char.IsDigit);
-            if (result)
-            {
-                return "$" + value;
-            } else
-            {
-                return value;
-            }
-            
+            Console.WriteLine("Print Example 2");
+        }
+        public static void Main(string[] args)
+        {
+            Program pg = new Program();
+            pg.Example1();
+            pg.Example2();
+
+            //Calling Extension Method
+            pg.Example4();
+            pg.Example5("Print Example 5");
+            Console.WriteLine(pg.ToCurrency("123"));
         }
     }
 }
