@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\DelegatesPractice\DelegatesPractice\bin\Debug\netcoreapp3.1\DelegatesPractice.exe
+C:\Users\Admin\source\repos\DelegatesPractice\DelegatesPractice\bin\Debug\netcoreapp3.1\DelegatesPractice.deps.json
+C:\Users\Admin\source\repos\DelegatesPractice\DelegatesPractice\bin\Debug\netcoreapp3.1\DelegatesPractice.runtimeconfig.json
+C:\Users\Admin\source\repos\DelegatesPractice\DelegatesPractice\bin\Debug\netcoreapp3.1\DelegatesPractice.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\DelegatesPractice\DelegatesPractice\bin\Debug\netcoreapp3.1\DelegatesPractice.dll
+C:\Users\Admin\source\repos\DelegatesPractice\DelegatesPractice\bin\Debug\netcoreapp3.1\DelegatesPractice.pdb
+C:\Users\Admin\source\repos\DelegatesPractice\DelegatesPractice\obj\Debug\netcoreapp3.1\DelegatesPractice.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\DelegatesPractice\DelegatesPractice\obj\Debug\netcoreapp3.1\DelegatesPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\DelegatesPractice\DelegatesPractice\obj\Debug\netcoreapp3.1\DelegatesPractice.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\DelegatesPractice\DelegatesPractice\obj\Debug\netcoreapp3.1\DelegatesPractice.AssemblyInfo.cs
+C:\Users\Admin\source\repos\DelegatesPractice\DelegatesPractice\obj\Debug\netcoreapp3.1\DelegatesPractice.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\DelegatesPractice\DelegatesPractice\obj\Debug\netcoreapp3.1\DelegatesPractice.dll
+C:\Users\Admin\source\repos\DelegatesPractice\DelegatesPractice\obj\Debug\netcoreapp3.1\DelegatesPractice.pdb
+C:\Users\Admin\source\repos\DelegatesPractice\DelegatesPractice\obj\Debug\netcoreapp3.1\DelegatesPractice.genruntimeconfig.cache
