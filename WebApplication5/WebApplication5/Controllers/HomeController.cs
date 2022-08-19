@@ -14,18 +14,36 @@ namespace WebApplication5.Controllers
         private ILogger _logger;
         private readonly IConfiguration _configuration;
 
-        public HomeController(ICustomer customer, ILoggerFactory loggerFactory, IConfiguration config)
+        public HomeController(ILogger<HomeController> logger, IConfiguration config)
+        {
+            _logger = logger;
+            _configuration = config;
+        }
+
+        /*public HomeController(ICustomer customer, ILoggerFactory loggerFactory, IConfiguration config)
         {
             _customer = customer;
             _logger = loggerFactory.CreateLogger<HomeController>();
             _configuration = config;
-        }
+        }*/
 
-        [HttpGet]
-        public IActionResult getName(string name)
+        //[HttpGet]
+        /*public IActionResult getName(string name)
         {
             var result = _customer.printName(name);
             var defaultLogLevel = _configuration["Logging:LogLevel:WebApplication5.Controllers.HomeController"];
+            _logger.LogInformation("This is Information Log Level");
+            _logger.LogDebug("This is Debug Log Level");
+            _logger.LogWarning("This is Warning Log Level");
+            _logger.LogError("This is Error Log Level");
+            return Ok(defaultLogLevel);
+        }*/
+
+        [HttpGet]
+        public IActionResult About()
+        {            
+            
+            string defaultLogLevel = _configuration["Logging:LogLevel:Default"];
             _logger.LogInformation("This is Information Log Level");
             _logger.LogDebug("This is Debug Log Level");
             _logger.LogWarning("This is Warning Log Level");

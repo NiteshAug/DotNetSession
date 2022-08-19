@@ -30,13 +30,13 @@ namespace WebApplication5
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
-            services.Configure<AppLoggingSettings>(Configuration.GetSection("MyLoggingSettings"));
+            /*services.Configure<AppLoggingSettings>(Configuration.GetSection("MyLoggingSettings"));
             services.AddSingleton<IConfiguration>(Configuration);
 
             var loggingSettings = new AppLoggingSettings();
-            Configuration.GetSection("MyLoggingSettings").Bind(loggingSettings);
+            Configuration.GetSection("MyLoggingSettings").Bind(loggingSettings);*/
 
-            services.AddLogger(Configuration.GetConnectionString(loggingSettings.ConnectionStringName));
+            //services.AddLogger(Configuration.GetConnectionString(loggingSettings.ConnectionStringName));
             services.AddControllers();
             services.AddScoped<ICustomer, CustomerService>();
             services.AddSwaggerGen(c =>
@@ -55,7 +55,7 @@ namespace WebApplication5
                 app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "WebApplication5 v1"));
             }
             app.UseHttpsRedirection();
-            app.UseLogger(Configuration.GetSection("Logging"), "WebApplication5");
+            //app.UseLogger(Configuration.GetSection("Logging"), "WebApplication5");
             app.UseRouting();
 
             app.UseAuthorization();
